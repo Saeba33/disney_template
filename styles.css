@@ -1,0 +1,17 @@
+:root {
+    --header-font-family: InspireTWDC, AvenirNext, Matterhorn, InspireTWDC, Helvetica, sans-serif;
+    --header-font-weight: 400;
+    --header-font-style: normal;
+    --body-font-family: InspireTWDC, AvenirNext, Matterhorn, InspireTWDC, Helvetica, sans-serif;
+    --body-font-weight: 400;
+    --body-font-style: normal;
+    --globalfooter-font-family: InspireTWDC, AvenirNext, Matterhorn, InspireTWDC, Helvetica, sans-serif;
+    --globalfooter-font-weight: 400;
+    --globalfooter-font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
